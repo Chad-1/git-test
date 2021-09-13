@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("git pull 操作的");
         System.out.println("人工修改");
         System.out.println("人工修改第二行");
+        System.out.println("aaaaa");
     }
 }
