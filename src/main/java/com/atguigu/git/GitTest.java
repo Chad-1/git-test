@@ -9,7 +9,7 @@ public class GitTest {
         System.out.println("hello git4");
         System.out.println("hot-fix修改的数据");
         System.out.println("git pull 操作的");
-        System.out.println("git pull 操作的");
-
+        System.out.println("人工修改");
+        System.out.println("人工修改第二行");
     }
 }
