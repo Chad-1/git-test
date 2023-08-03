@@ -1,5 +1,7 @@
 package com.atguigu.git;
 
+import java.util.ArrayList;
+
 /**
  * @Description:
  * @author: JC
@@ -7,6 +9,6 @@ package com.atguigu.git;
  */
 public class GitTest02 {
     public static void main(String[] args) {
-
+        ArrayList arrayList = new ArrayList();
     }
 }
